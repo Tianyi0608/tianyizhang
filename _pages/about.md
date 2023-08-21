@@ -14,10 +14,10 @@ redirect_from:
 ## Highest Education: 
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 ## Knowledge Background:
-1. Learning Science and Cognitive Science (6 years experience: B.S., M.Ed)
+1. **Learning Science** and **Cognitive Science** (6 years experience: B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
-2. Natural Language Processing (3 years experience: M.E)
+2. **Natural Language Processing** (3 years experience: M.E)
     - Event Extraction
     
       e.g. Event and Argument Identification and Classification
