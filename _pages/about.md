@@ -43,9 +43,21 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 ------
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Research Experience
+
+1. Research Assistant: NLP Group at UPenn, May. 2022 -
+    - Event schema generation using GPT-3
+        - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events
+        - Apply SRL and constituency parsing to summarize and extract structured events
+        - Build schema graphs by adding temporal relations to the events
+        - Outcome: "Human-in-the-Loop Schema Induction" paper
+    - Natural language to symbolic language translation for reasoning
+        - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
+        - Decompose the task into three stages: extraction, inference, and translation
+        - Identify strong text extraction and entity states inference abilities with increasingly complex wikiHow text (~5000 words)
+        - Acknowledge a weak translation capability to predefined symbolic pattern
+        - Improve the performance using CoT and instructions on translation.
+        - Outcome:"PROC2PDDL"paper
 
 Create content & metadata
 ------
