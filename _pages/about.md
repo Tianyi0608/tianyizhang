@@ -15,11 +15,11 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 ### Knowledge Background:
 1. Learning Science and Cognitive Science (6 years experience: BS, MsEd)
-    Human Learning and Knowledge Storage
-    Learning Task Design
-2. Natural Language Processing (3 years experience: MsE)
-    Event Extraction (Event and Argument Identification and Classification)
-    Event Reasoning (Schema Generation, Event and Entity Pre- and Post- Condition Generation)
+  - Human Learning and Knowledge Storage
+  - Learning Task Design
+3. Natural Language Processing (3 years experience: MsE)
+  - Event Extraction (Event and Argument Identification and Classification)
+  - Event Reasoning (Schema Generation, Event and Entity Pre- and Post- Condition Generation)
 
 Getting started
 ======
