@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Basic Information
-======
-### Highest Education: 
+# Basic Information
+## Highest Education: 
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
-
-### Knowledge Background:
+## Knowledge Background:
 1. Learning Science and Cognitive Science (6 years experience: B.S., M.Ed)
   - Human Learning and Knowledge Storage
   - Learning Task Design
@@ -23,13 +21,15 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
   - Event Reasoning in Natural and Symbolic Language
     e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
 
-Education
-======
+# Education
 * M.S in Data Science, Jan. 2021 - Dec. 2022
+  <br>
   University of Pennsylvania | Philadelphia, America
 * M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019
+  <br>
   University of Pennsylvania | Philadelphia, America
 * B.S in Educational Technology, Sept. 2014 - Jun. 2018
+  <br>
   Beijing Normal University | Beijing, China
 
 Site-wide configuration
