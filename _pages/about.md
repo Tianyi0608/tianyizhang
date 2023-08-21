@@ -59,7 +59,7 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
         - Improve the performance using CoT and instructions on translation.
         - Outcome:"PROC2PDDL"paper
 2. Research Assistant: Cognitive Computation Group at UPenn, Mar. 2020 – Dec. 2022
-   <font size=5>
+   <font size=3>
     - Event trigger identification and classification using sequence tagging
         - 1-of-N (72) joint model and BIO identification + event type classification pipeline model
         - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
