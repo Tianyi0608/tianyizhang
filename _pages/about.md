@@ -19,8 +19,7 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
     - Learning Task Design
 2. **Natural Language Processing** (3 years experience: M.E)
     - Event Extraction
-    - Event Reasoning in Natural and Symbolic Language
-    
+    - Event Reasoning in Natural and Symbolic Language<br>
       e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
 
 ------
