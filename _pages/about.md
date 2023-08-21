@@ -58,6 +58,21 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
         - Acknowledge a weak translation capability to predefined symbolic pattern
         - Improve the performance using CoT and instructions on translation.
         - Outcome:"PROC2PDDL"paper
+2. Research Assistant: Cognitive Computation Group at UPenn, Mar. 2020 – Dec. 2022
+   <font size=5>
+    - Event trigger identification and classification using sequence tagging
+        - 1-of-N (72) joint model and BIO identification + event type classification pipeline model
+        - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
+    - Event argument identification and classification using QA
+        - Design fixed questions for each argument role and convert argument role labeling task to question answering task
+        - Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model
+        - Transfer learning with auxiliary QA dataset, e.g. SQuAD, QAMR
+    - Event data augmentation using answer extraction (AE) and question generation (QG)
+        - Train AE-QG T5 model to extract QA pairs from unlabeled event text
+        - Train AEwSRL-QG Bert and T5 model to extract QA pairs from unlabeled event text
+        - Evaluate on joint-QA and pipeline-QA model and prove effectiveness of the above data augmentation approach
+        - Paper in submission
+  </font>
 
 Create content & metadata
 ------
