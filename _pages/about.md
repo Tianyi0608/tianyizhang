@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+123
 
 Basic Information
 ======
@@ -17,7 +18,7 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 1. Learning Science and Cognitive Science (6 years experience: BS, MsEd)
   - Human Learning and Knowledge Storage
   - Learning Task Design
-3. Natural Language Processing (3 years experience: MsE)
+2. Natural Language Processing (3 years experience: MsE)
   - Event Extraction (Event and Argument Identification and Classification)
   - Event Reasoning (Schema Generation, Event and Entity Pre- and Post- Condition Generation)
 
