@@ -22,15 +22,12 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
     e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
 
 # Education
-* M.S in Data Science, Jan. 2021 - Dec. 2022
-  <br>
-  University of Pennsylvania | Philadelphia, America
-* M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019
-  <br>
-  University of Pennsylvania | Philadelphia, America
-* B.S in Educational Technology, Sept. 2014 - Jun. 2018
-  <br>
-  Beijing Normal University | Beijing, China
+- M.S in Data Science, Jan. 2021 - Dec. 2022
+    University of Pennsylvania | Philadelphia, America
+- M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019
+    University of Pennsylvania | Philadelphia, America
+- B.S in Educational Technology, Sept. 2014 - Jun. 2018
+    Beijing Normal University | Beijing, China
 
 Site-wide configuration
 ------
