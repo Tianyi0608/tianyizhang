@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 # Basic Information
 ## Highest Education: 
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
