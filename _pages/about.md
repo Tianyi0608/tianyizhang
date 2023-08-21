@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-123
 
 Basic Information
 ======
@@ -15,21 +14,23 @@ Basic Information
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 ### Knowledge Background:
-1. Learning Science and Cognitive Science (6 years experience: BS, MsEd)
+1. Learning Science and Cognitive Science (6 years experience: B.S., M.Ed)
   - Human Learning and Knowledge Storage
   - Learning Task Design
-2. Natural Language Processing (3 years experience: MsE)
-  - Event Extraction (Event and Argument Identification and Classification)
-  - Event Reasoning (Schema Generation, Event and Entity Pre- and Post- Condition Generation)
+2. Natural Language Processing (3 years experience: M.E)
+  - Event Extraction
+    e.g. Event and Argument Identification and Classification
+  - Event Reasoning in Natural and Symbolic Language
+    e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* M.S in Data Science, Jan. 2021 - Dec. 2022
+  University of Pennsylvania | Philadelphia, America
+* M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019
+  University of Pennsylvania | Philadelphia, America
+* B.S in Educational Technology, Sept. 2014 - Jun. 2018
+  Beijing Normal University | Beijing, China
 
 Site-wide configuration
 ------
