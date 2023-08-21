@@ -19,9 +19,6 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
     - Learning Task Design
 2. **Natural Language Processing** (3 years experience: M.E)
     - Event Extraction
-    
-      e.g. Event and Argument Identification and Classification
-
     - Event Reasoning in Natural and Symbolic Language
     
       e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
@@ -29,10 +26,10 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 ------
 
 # Publication
-[Human-in-the-Loop Schema Induction.](https://123.com)
+- [Human-in-the-Loop Schema Induction.](https://123.com)
     Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
     
-[PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://123.com)
+- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://123.com)
     Tianyi Zhang, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
 
 ------
