@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
----
+------
 
 # Basic Information
 ## Highest Education: 
@@ -25,6 +25,14 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
     - Event Reasoning in Natural and Symbolic Language
     
       e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation
+
+------
+
+# Publication
+"Human-in-the-Loop Schema Induction."
+Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang et al. (ACL Demo 2023)
+"PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning."
+Tianyi Zhang, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. (2023, In submission)
 
 ------
 
