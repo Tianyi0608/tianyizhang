@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "" # "Tianyi Zhang's personal website"
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-------
-
 # Basic Information
 <font size=7>**Highest Education:**</font>
 
