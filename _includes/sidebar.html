@@ -1,9 +1,9 @@
+{% include base_path %}
+
 <style>
 text {text-align: center;}
-div {text-align: center;}
+/* div {text-align: center;} */
 </style>
-
-{% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
@@ -20,7 +20,8 @@ div {text-align: center;}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}<text>{{ s.text | markdownify }}</text>{% endif %}
+      {% if s.name %}<text>{{ site.name }}</text>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
