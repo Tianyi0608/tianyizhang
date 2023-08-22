@@ -49,7 +49,7 @@ blockquote {text-style: normal;}
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <blockquote><font size=3 font-style='normal'>
+      <blockquote style="font-style:normal;"><font size=3 font-style='normal'>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
