@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+blockquote {text-style: normal;}
+</style>
+
 **<font size=5>Highest Education:</font>**
 
   MSE in Data Science at University of Pennsylvania;  GPA: 3.97
