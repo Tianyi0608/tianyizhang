@@ -45,7 +45,7 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <blockquote><font size=3 class='no-italics'>
+      <blockquote><font size=3 style='normal'>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
@@ -54,7 +54,7 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
         </ul>
       </font></blockquote>
     - Natural language to **symbolic language** translation for **reasoning**
-      <blockquote><font size=3 class='no-italics'>
+      <blockquote><font size=3 style='normal'>
         <ul>
         <li>Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
         <li>Decompose the task into three stages: extraction, inference, and translation
