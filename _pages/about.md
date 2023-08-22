@@ -1,22 +1,21 @@
 ---
 permalink: /
-
+title: "Basic Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Basic Information
 **<font size=5>Highest Education:</font>**
 
-MsE in Data Science at University of Pennsylvania;  GPA: 3.97
+MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
-**<font size=5>Knowledge Background:</font>**
-1. **Learning Science** and **Cognitive Science** (6 years experience: B.S., M.Ed)
+**<font size=5>Area of Expertise:</font>**
+1. **Learning Science** and **Cognitive Science** (6 years' experience: B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
-2. **Natural Language Processing** (3 years experience: MSE)
+2. **Natural Language Processing** (3 years' experience: MSE)
     - Event Extraction
     - Event Reasoning in Natural and Symbolic Language<br>
       <font size=3>e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation</font>
@@ -46,10 +45,10 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event schema generation using GPT-3
-        - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events
-        - Apply SRL and constituency parsing to summarize and extract structured events
-        - Build schema graphs by adding temporal relations to the events
-        - Outcome: "Human-in-the-Loop Schema Induction" paper
+        > - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events
+        > - Apply SRL and constituency parsing to summarize and extract structured events
+        > - Build schema graphs by adding temporal relations to the events
+        > - Outcome: "Human-in-the-Loop Schema Induction" paper
     - Natural language to symbolic language translation for reasoning
         - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
         - Decompose the task into three stages: extraction, inference, and translation
@@ -60,7 +59,7 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022
    
     - Event trigger identification and classification using sequence tagging
-        > - 1-of-N (72) joint model and BIO identification + event type classification pipeline model</font>
+        > - 1-of-N (72) joint model and BIO identification + event type classification pipeline model
         > - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
     - Event argument identification and classification using QA
         - Design fixed questions for each argument role and convert argument role labeling task to question answering task
