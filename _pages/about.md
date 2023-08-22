@@ -49,7 +49,7 @@ blockquote {text-style: normal;}
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <blockquote style="font-style:normal;"><font size=3 font-style=normal>
+      <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
@@ -58,7 +58,7 @@ blockquote {text-style: normal;}
         </ul>
       </font></blockquote>
     - Natural language to **symbolic language** translation for **reasoning**
-      <blockquote><font size=3 style=normal>
+      <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4</li>
         <li>Decompose the task into three stages: extraction, inference, and translation</li>
@@ -70,14 +70,14 @@ blockquote {text-style: normal;}
       </font></blockquote>
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
     - Event **trigger identification** and **classification** using **sequence tagging**
-      <blockquote><font size=3 style='normal'>
+      <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>1-of-N (72) joint model and BIO identification + event type classification pipeline model</li>
         <li>Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic</li>
         </ul>
       </font></blockquote>
     - Event **argument identification** and **classification** using **QA**
-        <blockquote><font size=3 style='normal'>
+        <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Design fixed questions for each argument role and convert argument role labeling task to question answering task</li>
         <li>Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model</li>
@@ -85,7 +85,7 @@ blockquote {text-style: normal;}
         </ul>
       </font></blockquote>
     - Event **data augmentation** using **answer extraction (AE)** and **question generation (QG)**
-        <blockquote><font size=3 style='normal'>
+        <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Train AE-QG T5 model to extract QA pairs from unlabeled event text</li>
         <li>Train AEwSRL-QG Bert and T5 model to extract QA pairs from unlabeled event text</li>
