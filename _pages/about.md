@@ -1,6 +1,3 @@
-<style>
-blockquote {text-style: normal;}
-</style>
 ---
 permalink: /
 title: "Basic Information"
