@@ -11,16 +11,14 @@ redirect_from:
 ------
 
 # Basic Information
-Highest Education: 
----
+<font size=7>**Highest Education:**</font>
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
-Knowledge Background:
----
+<font size=7>**Knowledge Background:**</font>
 1. **Learning Science** and **Cognitive Science** (6 years experience: B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
-2. **Natural Language Processing** (3 years experience: M.E)
+2. **Natural Language Processing** (3 years experience: MSE)
     - Event Extraction
     - Event Reasoning in Natural and Symbolic Language<br>
       <font size=3>e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation</font>
@@ -37,7 +35,7 @@ Knowledge Background:
 ------
 
 # Education
-  - M.S in Data Science, Jan. 2021 - Dec. 2022<br>
+  - MSE in Data Science, Jan. 2021 - Dec. 2022<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
