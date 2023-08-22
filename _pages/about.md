@@ -54,12 +54,16 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
         </ul>
       </font></blockquote>
     - Natural language to **symbolic language** translation for **reasoning**
-        - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
-        - Decompose the task into three stages: extraction, inference, and translation
-        - Identify strong text extraction and entity states inference abilities with increasingly complex wikiHow text (~5000 words)
-        - Acknowledge a weak translation capability to predefined symbolic pattern
-        - Improve the performance using CoT and instructions on translation.
-        - Outcome:"PROC2PDDL"paper
+      <blockquote><font size=3 class='no-italics'>
+        <ul>
+        <li>Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
+        <li>Decompose the task into three stages: extraction, inference, and translation
+        <li>Identify strong text extraction and entity states inference abilities with increasingly complex wikiHow text (~5000 words)
+        <li>Acknowledge a weak translation capability to predefined symbolic pattern
+        <li>Improve the performance using CoT and instructions on translation.
+        <li>Outcome:"PROC2PDDL"paper
+        </ul>
+      </font></blockquote>
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
     - Event **trigger identification** and **classification** using **sequence tagging**
         > - 1-of-N (72) joint model and BIO identification + event type classification pipeline model
