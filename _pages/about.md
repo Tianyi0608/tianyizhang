@@ -12,10 +12,10 @@ redirect_from:
 MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 **<font size=5>Areas of Expertise:</font>**
-1. **Learning Science** and **Cognitive Science** (6 years of experience: B.S., M.Ed)
+1. **Learning Science** and **Cognitive Science** (6 years of experience, B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
-2. **Natural Language Processing** (3 years of experience: MSE)
+2. **Natural Language Processing** (3 years of experience, MSE)
     - Event Extraction
     - Event Reasoning in Natural and Symbolic Language<br>
       <font size=3>e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation</font>
@@ -45,7 +45,7 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <blockquote><font size=3>
+      <blockquote><font size=3 class='no-italics'>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
