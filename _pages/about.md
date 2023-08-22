@@ -11,9 +11,12 @@ redirect_from:
 ------
 
 # Basic Information
-## Highest Education: 
+Highest Education: 
+---
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
-## Knowledge Background:
+
+Knowledge Background:
+---
 1. **Learning Science** and **Cognitive Science** (6 years experience: B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
@@ -26,10 +29,10 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 # Publication
 - [Human-in-the-Loop Schema Induction.](https://123.com)
-    Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
+    **Tianyi Zhang**, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
     
 - [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://123.com)
-    Tianyi Zhang, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
+    **Tianyi Zhang**, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
 
 ------
 
