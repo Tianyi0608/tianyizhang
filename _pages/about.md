@@ -45,7 +45,7 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <blockquote><font size=3 style='normal'>
+      <blockquote><font size=3 font-style='normal'>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
@@ -66,15 +66,27 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
       </font></blockquote>
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
     - Event **trigger identification** and **classification** using **sequence tagging**
-        > - 1-of-N (72) joint model and BIO identification + event type classification pipeline model
-        > - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
+      <blockquote><font size=3 style='normal'>
+        <ul>
+        <li>1-of-N (72) joint model and BIO identification + event type classification pipeline model</li>
+        <li>Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic</li>
+        </ul>
+      </font></blockquote>
     - Event **argument identification** and **classification** using **QA**
-        - Design fixed questions for each argument role and convert argument role labeling task to question answering task
-        - Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model
-        - Transfer learning with auxiliary QA dataset, e.g. SQuAD, QAMR
+        <blockquote><font size=3 style='normal'>
+        <ul>
+        <li>Design fixed questions for each argument role and convert argument role labeling task to question answering task</li>
+        <li>Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model</li>
+        <li>Transfer learning with auxiliary QA dataset, e.g. SQuAD, QAMR</li>
+        </ul>
+      </font></blockquote>
     - Event **data augmentation** using **answer extraction (AE)** and **question generation (QG)**
-        - Train AE-QG T5 model to extract QA pairs from unlabeled event text
-        - Train AEwSRL-QG Bert and T5 model to extract QA pairs from unlabeled event text
-        - Evaluate on joint-QA and pipeline-QA model and prove effectiveness of the above data augmentation approach
-        - Paper in submission
+        <blockquote><font size=3 style='normal'>
+        <ul>
+        <li>Train AE-QG T5 model to extract QA pairs from unlabeled event text</li>
+        <li>Train AEwSRL-QG Bert and T5 model to extract QA pairs from unlabeled event text</li>
+        <li>Evaluate on joint-QA and pipeline-QA model and prove effectiveness of the above data augmentation approach</li>
+        <li>Paper in submission</li>
+        </ul>
+      </font></blockquote>
 
