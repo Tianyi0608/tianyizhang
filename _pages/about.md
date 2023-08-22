@@ -32,11 +32,11 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 ------
 
 # Education
-  - MSE in Data Science, Jan. 2021 - Dec. 2022<br>
+  - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
-  - M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019<br>
+  - M.Ed in Learning Science and Technology,   Sept. 2018 - Dec. 2019<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
-  - B.S in Educational Technology, Sept. 2014 - Jun. 2018<br>
+  - B.S in Educational Technology,   Sept. 2014 - Jun. 2018<br>
     <font size=3>Beijing Normal University, Beijing, China</font>
 
 ------
@@ -45,12 +45,14 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <font size=3>
-        - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events<br>
-        - Apply SRL and constituency parsing to summarize and extract structured events<br>
-        - Build schema graphs by adding temporal relations to the events<br>
-        - Outcome: "Human-in-the-Loop Schema Induction" paper<br>
-      </font>
+      <blockquote><font size=3>
+        <ul>
+        <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
+        <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
+        <li>Build schema graphs by adding temporal relations to the events</li>
+        <li>Outcome: "Human-in-the-Loop Schema Induction" paper</li>
+        </ul>
+      </font></blockquote>
     - Natural language to **symbolic language** translation for **reasoning**
         - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
         - Decompose the task into three stages: extraction, inference, and translation
