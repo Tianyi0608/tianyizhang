@@ -35,11 +35,11 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 # Education
   - M.S in Data Science, Jan. 2021 - Dec. 2022<br>
-    University of Pennsylvania, Philadelphia, America 
+    <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019<br>
-    University of Pennsylvania, Philadelphia, America
+    <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - B.S in Educational Technology, Sept. 2014 - Jun. 2018<br>
-    Beijing Normal University, Beijing, China
+    <font size=3>Beijing Normal University, Beijing, China</font>
 
 ------
 
@@ -61,8 +61,8 @@ MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022
    
     - Event trigger identification and classification using sequence tagging
-        <font size=3>- 1-of-N (72) joint model and BIO identification + event type classification pipeline model</font>
-        - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
+        > - 1-of-N (72) joint model and BIO identification + event type classification pipeline model</font>
+        > - Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic
     - Event argument identification and classification using QA
         - Design fixed questions for each argument role and convert argument role labeling task to question answering task
         - Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model
