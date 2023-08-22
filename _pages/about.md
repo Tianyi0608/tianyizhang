@@ -45,12 +45,12 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <font size=3>
-        > - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events
-        > - Apply SRL and constituency parsing to summarize and extract structured events
-        > - Build schema graphs by adding temporal relations to the events
-        > - Outcome: "Human-in-the-Loop Schema Induction" paper
-        </font>
+      <font size=3><p>
+        > - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events<br>
+        > - Apply SRL and constituency parsing to summarize and extract structured events<br>
+        > - Build schema graphs by adding temporal relations to the events<br>
+        > - Outcome: "Human-in-the-Loop Schema Induction" paper<br>
+        </p></font>
     - Natural language to **symbolic language** translation for **reasoning**
         - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
         - Decompose the task into three stages: extraction, inference, and translation
