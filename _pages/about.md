@@ -12,6 +12,7 @@ redirect_from:
 
 # Basic Information
 <font size=7>**Highest Education:**</font>
+
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 <font size=7>**Knowledge Background:**</font>
