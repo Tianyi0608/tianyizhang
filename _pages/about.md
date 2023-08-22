@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 # Basic Information
-<font size=7>**Highest Education:**</font>
+**<font size=5>Highest Education:</font>**
 
 MsE in Data Science at University of Pennsylvania;  GPA: 3.97
 
-<font size=7>**Knowledge Background:**</font>
+**<font size=5>Knowledge Background:</font>**
 1. **Learning Science** and **Cognitive Science** (6 years experience: B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
