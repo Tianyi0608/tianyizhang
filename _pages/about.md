@@ -23,7 +23,7 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 ------
 
 # Publications
-- [Human-in-the-Loop Schema Induction.](https://123.com)
+- [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
     **Tianyi Zhang**, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
     
 - [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://123.com)
@@ -45,11 +45,11 @@ MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
-      <font size=3><p>
-        > - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events<br>
-        > - Apply SRL and constituency parsing to summarize and extract structured events<br>
-        > - Build schema graphs by adding temporal relations to the events<br>
-        > - Outcome: "Human-in-the-Loop Schema Induction" paper<br>
+      > <font size=3><p>
+        - Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events<br>
+        - Apply SRL and constituency parsing to summarize and extract structured events<br>
+        - Build schema graphs by adding temporal relations to the events<br>
+        - Outcome: "Human-in-the-Loop Schema Induction" paper<br>
         </p></font>
     - Natural language to **symbolic language** translation for **reasoning**
         - Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4
