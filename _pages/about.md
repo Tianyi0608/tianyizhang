@@ -61,7 +61,7 @@ redirect_from:
         <li>Identify strong text extraction and entity states inference abilities with increasingly complex wikiHow text (~5000 words)</li>
         <li>Acknowledge a weak translation capability to predefined symbolic pattern</li>
         <li>Improve the performance using CoT and instructions on translation.</li>
-        <li>Outcome:"PROC2PDDL"paper</li>
+        <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
       </font></blockquote>
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
