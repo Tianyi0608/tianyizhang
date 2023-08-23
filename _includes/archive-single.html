@@ -58,6 +58,10 @@
     {% if post.text %}
     <section class="page__content" itemprop="text">{{post.text}}</section>
     {% endif %}
+
+    <p>excerpt: {{post.excerpt}}</p>
+    <p>content: {{post.content}}</p>
+    <p>post: {{post}}</p>
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
