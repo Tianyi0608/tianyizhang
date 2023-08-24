@@ -74,7 +74,7 @@
           var videoID = 'fitvid' + count;
           $this.attr('id', videoID);
         }
-        console.log($this.attr('height'), $this.attr('width'))
+        console.log('height:', $this.attr('height'), $this.attr('width'))
         $this.wrap('<div class="fluid-width-video-wrapper"></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 100)+'%');
         // $this.removeAttr('height').removeAttr('width');
       });
