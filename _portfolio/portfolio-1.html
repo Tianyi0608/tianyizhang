@@ -19,10 +19,10 @@ This work explores the <strong>causal reasoning of events</strong>. It treats ca
 
 The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as 'avatar 1' with attribute 'at location 1' or 'at location 2', in a series of unit actions. We decompose a complicated goal into a bunch of reusable unit actions, e.g. 'go', 'get'. The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of entity states.
 
-<code>init: (avatar_1 at location_1)
+<pre><code>init: (avatar_1 at location_1)
 go: (avatar_1 at location_2) # avatar_1's location attribute changes from location_1 to location_2
 get: (avatar_1 has item_1) # avatar_1's inventory attribute adds item_1
-goal: (avatar_1 has item_1)</code>
+goal: (avatar_1 has item_1)</code></pre>
 
 See our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a> and <a href="">code</a>.
 </body>
