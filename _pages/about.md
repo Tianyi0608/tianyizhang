@@ -47,9 +47,10 @@ redirect_from:
     - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
-        <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
+        <li>**Design the scaffold prompts** (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
+        <li>Apply SRL and constituency parsing to summarize and **extract structured events**</li>
         <li>Build schema graphs by adding temporal relations to the events</li>
+        <li>**Ground the graph nodes** into the ontology through the semantic inference or the semantic similarity</li>
         <li>Outcome: "Human-in-the-Loop Schema Induction" paper</li>
         </ul>
       </font></blockquote>
