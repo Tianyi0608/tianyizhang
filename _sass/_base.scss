@@ -97,7 +97,8 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   /* font-style: italic; */
-  border-left: 0.25em solid $code-background-color; /* $primary-color */
+  border-left: 0.25em solid #A9A9A9; /* $primary-color */
+  background: #F8F8FF;
 
   cite {
     font-style: italic;
@@ -126,7 +127,7 @@ a {
 
 tt, code, kbd, samp, pre {
   /* font-family: $monospace; */
-  margin: 1em 0.5em 1em 0.5em;
+  margin: 1em 1em 1em 1em;
   padding-left: 1em;
   padding-right: 1em;
   font-size: 3;
