@@ -26,7 +26,7 @@ redirect_from:
 - [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
     **Tianyi Zhang**, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
     
-- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://123.com)
+- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
     **Tianyi Zhang**, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
 
 ------
