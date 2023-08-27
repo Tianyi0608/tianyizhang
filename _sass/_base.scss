@@ -94,8 +94,7 @@ abbr[data-original-title] {
 
 blockquote {
   margin: 1em 0 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 0.5em 0.5em 0.5em 0; 
   /* font-style: italic; */
   border-left: 0.25em solid #A9A9A9; /* $primary-color */
   background: $code-background-color;
