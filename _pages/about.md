@@ -46,12 +46,14 @@ redirect_from:
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
     - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
+        <nav>
         <ul>
         <li>Design the scaffolds (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
         <li>Apply SRL and constituency parsing to summarize and extract structured events</li>
         <li>Build schema graphs by adding temporal relations to the events</li>
         <li>Outcome: "Human-in-the-Loop Schema Induction" paper</li>
         </ul>
+        </nav>
       </font></blockquote>
     - Natural language to **symbolic language** translation for **reasoning**
       <blockquote style="font-style:normal;"><font size=3>
