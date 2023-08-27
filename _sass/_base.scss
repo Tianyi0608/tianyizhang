@@ -77,8 +77,8 @@ del a {
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  orphans: 3;
-  widows: 3;
+  orphans: 5;
+  widows: 5;
 }
 
 /* abbreviations */
@@ -94,8 +94,8 @@ abbr[data-original-title] {
 
 blockquote {
   margin: 1em 0 2em 0;
-  padding-left: 0;
-  padding-right: 0;
+  padding-left: 1em;
+  padding-right: 1em;
   /* font-style: italic; */
   border-left: 0.25em solid $primary-color;
 
@@ -125,7 +125,7 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  /* font-family: $monospace; */
+  font-family: $monospace;
   background: $code-background-color;
 }
 
