@@ -58,10 +58,10 @@ redirect_from:
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Focus on open-domain natural language (wikiHow) to symbolic language (PDDL) generation with GPT-4</li>
-        <li>Decompose the task into three stages: extraction, inference, and translation</li>
-        <li>Identify strong text extraction and entity states inference abilities with increasingly complex wikiHow text (~5000 words)</li>
-        <li>Acknowledge a weak translation capability to predefined symbolic pattern</li>
-        <li>Improve the performance using CoT and instructions on translation.</li>
+        <li><strong>Decompose the task</strong> into three stages: extraction, inference, and translation</li>
+        <li>Identify strong <strong>text extraction and entity states inference</strong> abilities with increasingly complex wikiHow text (~5000 words)</li>
+        <li>Acknowledge a weak <strong>translation capability</strong> to predefined symbolic pattern</li>
+        <li>Improve the performance using <strong>CoT</strong> and <strong>instructions</strong> on translation.</li>
         <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
       </font></blockquote>
@@ -69,24 +69,24 @@ redirect_from:
     - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>1-of-N (72) joint model and BIO identification + event type classification pipeline model</li>
-        <li>Transfer learning with target language auxiliary dataset, e.g. OntoNotes Arabic</li>
+        <li>1-of-N (72) joint model and <strong>BIO identification + event type classification</strong> pipeline model</li>
+        <li><strong>Transfer learning</strong> with target language auxiliary dataset, e.g. OntoNotes Arabic</li>
         </ul>
       </font></blockquote>
     - Event **argument identification** and **classification** using **QA**
         <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>Design fixed questions for each argument role and convert argument role labeling task to question answering task</li>
-        <li>Has-and-no-answer joint model and has/no answer classification + has answer identification pipeline model</li>
+        <li><strong>Design fixed questions</strong> for each argument role and convert argument role labeling task to question answering task</li>
+        <li>Has-and-no-answer joint model and <strong>has/no answer classification + has answer identification</strong> pipeline model</li>
         <li>Transfer learning with auxiliary QA dataset, e.g. SQuAD, QAMR</li>
         </ul>
       </font></blockquote>
     - Event **data augmentation** using **answer extraction (AE)** and **question generation (QG)**
         <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>Train AE-QG T5 model to extract QA pairs from unlabeled event text</li>
-        <li>Train AEwSRL-QG Bert and T5 model to extract QA pairs from unlabeled event text</li>
-        <li>Evaluate on joint-QA and pipeline-QA model and prove effectiveness of the above data augmentation approach</li>
+        <li>Train <strong>AE-QG T5 model</strong> to extract QA pairs from unlabeled event text</li>
+        <li>Train <strong>AEwSRL-QG Bert-T5 model</strong> to extract QA pairs from unlabeled event text</li>
+        <li><strong>Evaluate on joint-QA and pipeline-QA model</strong> and prove effectiveness of the above data augmentation approach</li>
         <li>Paper in submission</li>
         </ul>
       </font></blockquote>
