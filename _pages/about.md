@@ -9,7 +9,7 @@ redirect_from:
 ---
 **<font size=5>Highest Education:</font>**
 
-  &nbsp;MSE in Data Science at University of Pennsylvania;  GPA: 3.97
+&emsp;MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 **<font size=5>Areas of Expertise:</font>**
 1. **Learning Science** and **Cognitive Science** (6 years of experience, B.S., M.Ed)
@@ -47,10 +47,10 @@ redirect_from:
     - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>**Design the scaffold prompts** (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
-        <li>Apply SRL and constituency parsing to summarize and **extract structured events**</li>
+        <li><strong>Design the scaffold prompts</strong> (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
+        <li>Apply SRL and constituency parsing to summarize and <strong>extract structured events</strong></li>
         <li>Build schema graphs by adding temporal relations to the events</li>
-        <li>**Ground the graph nodes** into the ontology through the semantic inference or the semantic similarity</li>
+        <li><strong>Ground the graph nodes</strong> into the ontology through the semantic inference or the semantic similarity</li>
         <li>Outcome: "Human-in-the-Loop Schema Induction" paper</li>
         </ul>
       </font></blockquote>
