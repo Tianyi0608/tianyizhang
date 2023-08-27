@@ -9,7 +9,7 @@ redirect_from:
 ---
 **<font size=5>Highest Education:</font>**
 
-  MSE in Data Science at University of Pennsylvania;  GPA: 3.97
+  &nbsp;MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
 **<font size=5>Areas of Expertise:</font>**
 1. **Learning Science** and **Cognitive Science** (6 years of experience, B.S., M.Ed)

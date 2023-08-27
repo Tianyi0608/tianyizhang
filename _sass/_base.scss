@@ -77,8 +77,8 @@ del a {
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  orphans: 5;
-  widows: 5;
+  orphans: 10;
+  widows: 10;
 }
 
 /* abbreviations */
@@ -125,7 +125,7 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  font-family: $monospace;
+  /* font-family: $monospace; */
   background: $code-background-color;
 }
 
