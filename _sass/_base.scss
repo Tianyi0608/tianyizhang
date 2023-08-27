@@ -126,7 +126,8 @@ a {
 
 tt, code, kbd, samp, pre {
   /* font-family: $monospace; */
-  font-size: 3;
+  font-size: $type-size-6;
+  white-space: pre;
   background: $code-background-color;
 }
 
