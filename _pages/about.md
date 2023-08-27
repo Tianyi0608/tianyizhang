@@ -69,7 +69,7 @@ redirect_from:
     - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
-        <li>1-of-N (72) joint model and <strong>BIO identification + event type classification</strong> pipeline model</li>
+        <li>Build 1-of-N (72) joint model and <strong>BIO identification + event type classification</strong> pipeline model</li>
         <li><strong>Transfer learning</strong> with target language auxiliary dataset, e.g. OntoNotes Arabic</li>
         </ul>
       </font></blockquote>
@@ -77,7 +77,7 @@ redirect_from:
         <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li><strong>Design fixed questions</strong> for each argument role and convert argument role labeling task to question answering task</li>
-        <li>Has-and-no-answer joint model and <strong>has/no answer classification + has answer identification</strong> pipeline model</li>
+        <li>Build has-and-no-answer joint model and <strong>has/no answer classification + has answer identification</strong> pipeline model</li>
         <li>Transfer learning with auxiliary QA dataset, e.g. SQuAD, QAMR</li>
         </ul>
       </font></blockquote>
