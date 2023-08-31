@@ -29,7 +29,7 @@ redirect_from:
 - [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
     **Tianyi Zhang**, Li Zhang, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
 
-- [Argument Role Labelling Question-Answer Pair Data Augmentation](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
+- [Argument Role Labelling Question-Answer Pair Data Augmentation.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
 
 ------
@@ -46,7 +46,7 @@ redirect_from:
 
 # Research Experience
 
-1. **Research Assistant: NLP Group at UPenn**, May. 2022 -
+1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
     - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
