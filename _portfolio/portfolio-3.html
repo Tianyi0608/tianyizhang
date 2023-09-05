@@ -28,13 +28,7 @@ This work explores the <strong>QA augmentation for events in news articles</stro
  The people who are married
  Where the marriage takes place
 
+Traditionally, to extract event QA pairs from an article, our steps are: ask questions --> extract answers. However, to augment event QA pairs, we propose a reversed approach: extract answers --> ask questions.
 
-The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as <em>'avatar 1'</em> with attribute <em>'at location 1'</em> or <em>'at location 2'</em>, in a series of unit actions. We decompose a complicated goal into a bunch of reusable unit actions, e.g. <em>'go'</em>, <em>'get'</em>. The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of these entity states.
-
-<code><pre>
-init: (avatar_1 at location_1)
-go: (avatar_1 at location_2) # avatar_1's location attribute changes from location_1 to location_2
-get: (avatar_1 has item_1) # avatar_1's inventory attribute adds item_1
-goal: (avatar_1 has item_1)</code></pre>
 
 See our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a> and <a href="">code</a>.
