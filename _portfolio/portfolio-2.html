@@ -12,7 +12,8 @@ collection: portfolio
 <pre><code># toy sample of an event schema.
 # temporal relation: searching event happens before find event.
 # co-reference of entities, subject: person_1 and object: item_1, are shared in two events.
-event_searching(subject: person_1 ; object: item_1) --> event_find(subject: person_1 ; object: item_1)</code></pre>
+
+<bold style="color:dodgerblue;">event_searching</bold>(<text style="color:darkturquoise;">subject: person_1</text> ; <text style="color:deepskyblue;">object: item_1</text>) &rarr; <bold style="color:dodgerblue;">event_find</bold>(<text style="color:darkturquoise;">subject: person_1</text> ; <text style="color:deepskyblue;">object: item_1</text>)</code></pre>
 
 <p>Our approach is proposed based on the observations that automatic schema induction can be productive but vulnerable in quality; whereas manual schema induction can be accurate but onerous. We combine the work of humans and computers to generate event schemas in <strong>high efficiency (quality and quantity)</strong>.</p>
 
