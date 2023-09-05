@@ -23,8 +23,9 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   border-right: 1px solid $light-gray;
+  border-bottom: 1px solid $light-gray;
 }
 
 td {
