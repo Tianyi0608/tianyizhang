@@ -4,14 +4,13 @@ excerpt: ""
 collection: portfolio
 ---
 
-<strong>One sentence summary:</strong> Augment question-answer pairs with semantic and syntactic constraints to solve the argument role labeling task.
+<p><strong>One sentence summary:</strong> Augment question-answer pairs with semantic and syntactic constraints to solve the argument role labeling task.</p>
 
-
-This work explores the <strong>QA augmentation for events in news articles</strong>. Our altimate goal is to automatically extract structured events from unlabeled unstructured articles. In this work, we focus on a subtask: extract QA pairs for arguments given an event. The synthetic data severs as augmented data to train the QA event extraction model.
+<p>This work explores the <strong>QA augmentation for events in news articles</strong>. Our altimate goal is to automatically extract structured events from unlabeled unstructured articles. In this work, we focus on a subtask: extract QA pairs for arguments given an event. The synthetic data severs as augmented data to train the QA event extraction model.</p>
 
 <table>
   <tr>
-    <th><text style="color:deeppink;">They</text> were married in <text style="color:dodgerblue;">Spain</text>.</th>
+    <th colspan="3"><text style="color:deeppink;">They</text> were married in <text style="color:dodgerblue;">Spain</text>.</th>
   </tr>
   <tr>
     <td><text style="color:deeppink;">Person-Argument</text></td>
@@ -28,7 +27,7 @@ This work explores the <strong>QA augmentation for events in news articles</stro
  The people who are married
  Where the marriage takes place
 
-Traditionally, to extract event QA pairs from an article, our steps are: ask questions --> extract answers. However, to augment event QA pairs, we propose a reversed approach: extract answers --> ask questions.
+<p>Traditionally, to extract structured event QA pairs from an article, our steps are: ask questions --> extract answers. However, to augment event QA pairs, we propose a reversed approach: extract answers --> ask questions. This approach takes advantages of the tansfer ability of QA datasets and eliminates the high proportion (~60%) of no-answer questions.</p>
 
 
 See our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a> and <a href="">code</a>.
