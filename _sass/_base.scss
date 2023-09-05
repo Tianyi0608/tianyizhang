@@ -129,12 +129,13 @@ tt, code, kbd, samp, pre {
   margin: 1em 2em 1em 2em;
   padding: 0.5em 0.5em 0.5em 0.5em ;
   /* font-size: 3; */
-  white-space: pre;
+  white-space: pre-line;
   background: $code-background-color;
 }
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
+  white-space: pre-line;
 }
 
 p > code,
