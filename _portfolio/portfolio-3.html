@@ -1,0 +1,29 @@
+---
+title: "Argument Role Labelling Question-Answer Pair Data Augmentation"
+excerpt: ""
+collection: portfolio
+---
+
+<strong>One sentence summary:</strong> Augment question-answer pairs with semantic and syntactic constraints to solve the argument role labeling task.
+
+
+This work explores the <strong>QA augmentation for events in news articles</strong>. Our altimate goal is to automatically extract structured events from unlabeled unstructured articles. In this work, we focus on a subtask: extract QA pairs for arguments given an event. The synthetic data severs as augmented data to train the QA event extraction model.
+
+<code><pre>
+<text style="background-color:dodgerblue;">They</text> were married in Spain.
+Person-Arg The people who are married
+Who is married?
+Place-Arg Where the marriage takes place
+Where is someone married?
+Time-Arg When the marriage takes place
+When is someone married?</code></pre>
+
+The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as <em>'avatar 1'</em> with attribute <em>'at location 1'</em> or <em>'at location 2'</em>, in a series of unit actions. We decompose a complicated goal into a bunch of reusable unit actions, e.g. <em>'go'</em>, <em>'get'</em>. The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of these entity states.
+
+<code><pre>
+init: (avatar_1 at location_1)
+go: (avatar_1 at location_2) # avatar_1's location attribute changes from location_1 to location_2
+get: (avatar_1 has item_1) # avatar_1's inventory attribute adds item_1
+goal: (avatar_1 has item_1)</code></pre>
+
+See our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a> and <a href="">code</a>.
