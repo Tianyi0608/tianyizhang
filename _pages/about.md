@@ -11,14 +11,18 @@ redirect_from:
 
 &emsp;MSE in Data Science at University of Pennsylvania;  GPA: 3.97
 
-**<font size=5>Areas of Expertise:</font>**
+**<font size=5>Research Interests:</font>**
+1. Reasoning in Natural/Symbolic Language
+2. Interdisciplinary in NLP, CV and Robotics
+
+**<font size=5>Expertise:</font>**
 1. **Learning Science** and **Cognitive Science** (6 years of experience, B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
 2. **Natural Language Processing** (3 years of experience, MSE)
     - Event Extraction
     - Event Reasoning in Natural and Symbolic Language<br>
-      <font size=3>e.g. Schema Generation, Event and Entity Pre- and Post- Condition Generation</font>
+      <font size=3>e.g. Schema Generation, Event and Entity Pre- and Post-condition Generation</font>
 
 ------
 
@@ -68,6 +72,7 @@ redirect_from:
         <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
       </font></blockquote>
+
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
     - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
