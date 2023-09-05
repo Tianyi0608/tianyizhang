@@ -6,7 +6,7 @@ collection: portfolio
 
 <strong>One sentence summary:</strong> Reasoning on the changes of entities and states when performing an action in symbolic language.
 
-This work explores the <strong>causal reasoning of events</strong>. It treats causal links as the <strong>pre- and post-conditions between actions</strong>, represented in the symbolic language. For example, an action <code>go</code> requires (as pre-condition) an <code>avatar 1</code> at <code>location 1</code> and <code>location 1</code> can be connected to <code>location 2</code>; the result is (as post-condition) an <code>avatar 1</code> at <code>location 2</code>. To implement a sequence of actions, the pre-conditions should be satisfied before executing each action, and the post-conditions will be acquired after the action. 
+<p>This work explores the <strong>causal reasoning of events</strong>. It treats causal links as the <strong>pre- and post-conditions between actions</strong>, represented in the symbolic language. For example, an action <code>go</code> requires (as pre-condition) an <code>avatar 1</code> at <code>location 1</code> and <code>location 1</code> can be connected to <code>location 2</code>; the result is (as post-condition) an <code>avatar 1</code> at <code>location 2</code>. To implement a sequence of actions, the pre-conditions should be satisfied before executing each action, and the post-conditions will be acquired after the action.</p>
 
 <code>
 <pre>(: action go
@@ -15,7 +15,7 @@ This work explores the <strong>causal reasoning of events</strong>. It treats ca
 	post-conditions: (avatar_1 at location_2)
 )</code></pre>
 
-The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as 'avatar 1' with attribute 'at location 1' or 'at location 2', in a series of unit actions. We decompose a complicated goal into a bunch of reusable unit actions, e.g. 'go', 'get'. The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of entity states.
+The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as <code>avatar 1</code> with attribute <code>at location 1</code> or <code>at location 2</code>, in a series of unit actions. We decompose a complicated goal into a bunch of reusable unit actions, e.g. <code>go</code>, <code>get</code>. The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of entity states.
 
 <pre><code>
 init: (avatar_1 at location_1)
