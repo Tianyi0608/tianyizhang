@@ -1,29 +1,37 @@
 ---
-title: "PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning"
+title: "Argument Role Labelling Question-Answer Pair Data Augmentation"
 excerpt: ""
 collection: portfolio
 ---
 
-<p><strong>One sentence summary:</strong> Reasoning on the changes of entities and states when performing an action in symbolic language.</p>
+<p><strong>One sentence summary:</strong> Augment question-answer pairs with semantic and syntactic constraints to solve the argument role labeling task.</p>
 
-<p>This work explores the <strong>causal reasoning of events</strong>. It treats causal links as the <strong>pre- and post-conditions between actions</strong>, represented in the symbolic language. To implement a sequence of actions, the pre-conditions should be satisfied before executing each action, and the post-conditions will be acquired after the action. We generate the pre- and post-conditions of actions. Then, a PDDL solver finds a path to achieve a goal.</p>
+<p>This work explores the <strong>QA augmentation for events in news articles</strong>. Our altimate goal is to automatically extract structured events from unlabeled unstructured articles. In this work, we focus on a subtask: extract QA pairs for the arguments given an event. The synthetic data then severs as augmented data to train the QA event extraction model.</p>
 
-<pre><code># An action <em>go</em> requires (as pre-condition) an <em>avatar 1</em> at <em>location 1</em> and <em>location 1</em> can be connected to <em>location 2</em>; 
-# the result is (as post-condition) an <em>avatar 1</em> at <em>location 2</em>.
+<table>
+  <tr>
+    <th colspan="3"><text style="color:deeppink;">They</text> were married in <text style="color:dodgerblue;">Spain</text>.</th>
+  </tr>
+  <tr>
+  	<th>Arument Role Label</th>
+  	<th>Question</th>
+  	<th>Answer</th>
+  </tr>
+  <tr>
+    <td><text style="color:deeppink;">Person-Arg</text></td>
+    <td>Who is married?</td>
+    <td>They</td>
+  </tr>
+  <tr>
+    <td><text style="color:dodgerblue;">Place-Arg</text></td>
+    <td>Where is someone married?</td>
+    <td>Spain</td>
+  </tr>
+</table>
 
-(: action go
-  parameters: avatar_1, location_1, location_2
-  pre-conditions: (avatar_1 at location_1) (location_1 connect to location_2)
-  post-conditions: (avatar_1 at location_2)
-)</code></pre>
+ <!-- The people who are married
+ Where the marriage takes place -->
 
-<p>The core theory of this approach is <strong>tracking the dynamics</strong> of <strong>entities</strong> and <strong>their attributes</strong>, such as <em>'avatar 1'</em> with attribute <em>'at location 1'</em>, in a series of unit actions. It decomposes the accomplishment of a complicated goal into the fulfilment of a series of reusable unit actions (with particular conditions), e.g. <em>'go'</em>.</p>
+<p>Traditionally, to extract structured event QA pairs from an article, the steps are: <text style="background-color:whitesmoke;">ask questions &rarr; extract answers</text>. However, to augment event QA pairs, we propose a reversed approach: <text style="background-color:whitesmoke;">extract answers &rarr; ask questions</text>. This approach takes advantage of the transfer ability of QA datasets and circumvents the high proportion (~60&percnt;) of no-answer questions.</p>
 
-<!--  The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of these entity states. -->
-
-<pre><code>init: (avatar_1 at location_1)
-go: (avatar_1 at location_2) # avatar_1's location attribute changes from location_1 to location_2
-get: (avatar_1 has item_1) # avatar_1's inventory attribute adds item_1
-goal: (avatar_1 has item_1)</code></pre>
-
-<p>See our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a> and <a href="">code</a>.</p>
+See our <a href="https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf">paper</a> and <a href="">code</a>.
