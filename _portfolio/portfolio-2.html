@@ -8,7 +8,9 @@ collection: portfolio
 
 <p><b>[What]</b> This work explores the <strong>causal reasoning of events</strong>. It treats causal links as the <strong>pre- and post-conditions between actions</strong>, represented in the symbolic language. To implement a sequence of actions, the pre-conditions should be satisfied before executing each action, and the post-conditions will be acquired after the action. We propose to generate the pre- and post-conditions of actions <b>in three steps</b>: text identification, entity-state extraction, and entity-state translation. Then, a PDDL solver finds a path to achieve a goal.</p>
 
-<pre><code>(: action <b style="color:dodgerblue;">go</b>
+<pre><code># an example of PDDL action <text style="color:dodgerblue;">go</text>;
+
+(: action <b style="color:dodgerblue;">go</b>
   <text style="color:deepskyblue;">parameters</text>: avatar_1, location_1, location_2 
   <text style="color:deepskyblue;">pre-conditions</text>: (avatar_1 at location_1) (location_1 connect to location_2) # an action <em>go</em> requires an <em>avatar 1</em> at <em>location 1</em> and <em>location 1</em> connects to <em>location 2</em>
   <text style="color:deepskyblue;">post-conditions</text>: (avatar_1 at location_2) # the result is an <em>avatar 1</em> at <em>location 2</em>
@@ -18,7 +20,9 @@ collection: portfolio
 
 <!--  The unit action is viewed as an external method to alter the internal states of the entity. Our focus is on the dynamics of these entity states. -->
 
-<pre><code>init: (avatar_1 at location_1)
+<pre><code># an example of changes of attributes of an entity <em>'avatar 1'</em>;
+
+init: (avatar_1 at location_1)
 <b style="color:dodgerblue;">go</b>: (avatar_1 at location_2) # avatar_1's location attribute changes from location_1 to location_2
 <b style="color:dodgerblue;">get</b>: (avatar_1 has item_1) # avatar_1's inventory attribute adds item_1
 goal: (avatar_1 has item_1)</code></pre>
