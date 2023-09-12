@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am in search of a Ph.D. position in Fall 2024, preferably in America.
+
 **<font size=5>Highest Education:</font>**
 
 &emsp;MSE in Data Science at University of Pennsylvania;  GPA: 3.97
