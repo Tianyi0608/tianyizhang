@@ -187,6 +187,9 @@ collections:
   portfo:
     output: true
     permalink: /:collection/:path/
+  professional:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
