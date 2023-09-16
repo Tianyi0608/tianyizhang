@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianyi Zhang"
   avatar           : "WechatIMG28320.jpeg" # "profile.png"
-  bio              : "Expertise in\nNatural Language Processing and\nCognitive Science"
+  bio              : "Expertise in<br>Natural Language Processing and<br>Cognitive Science"
   location         : # "Location"
   employer         :
   pubmed           : 
