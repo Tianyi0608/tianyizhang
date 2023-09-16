@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am in search of a Ph.D. position in Fall 2024, preferably in America.
+I am in search of a Ph.D. position in 2024, preferably in America.
+
+I am fascinated by reasoning and engaged in a project of causality described in pre- and post-conditions (referring to our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">PROC2PDDL</a> paper). If you are interested in this, feel free to email me. I would be very glad to talk about it.&#128515;
 
 **<font size=5>Highest Education:</font>**
 
@@ -97,7 +99,7 @@ I am in search of a Ph.D. position in Fall 2024, preferably in America.
         <li>Train <strong>AE-QG T5 model</strong> to extract QA pairs from unlabeled event text</li>
         <li>Train <strong>AEwSRL-QG Bert-T5 model</strong> to extract QA pairs from unlabeled event text</li>
         <li><strong>Evaluate on joint-QA and pipeline-QA model</strong> and prove effectiveness of the above data augmentation approach</li>
-        <li>Paper in submission</li>
+        <li>Outcome: "Argument Role Labelling Question-Answer Pair Data Augmentation" paper</li>
         </ul>
       </font></blockquote>
 
