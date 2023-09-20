@@ -40,7 +40,7 @@ I am <b>fascinated by reasoning</b> and currently dedicate to <b>causality descr
 
 - [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.]()
     **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
-    <br>not publicly available currently, please email me if you are interested in it.
+    <br>**Not publicly available currently**, please email me if you are interested in it.
 
 <!-- https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf -->
 
