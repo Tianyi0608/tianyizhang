@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Basic Information"
-excerpt: "About me"
+excerpt: "basic information"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am in search of a Ph.D. position in 2024, preferably in America.
 
-I am <b>fascinated by reasoning</b> and currently engaged in <b>causality described in pre- and post-conditions</b> (referring to our <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">PROC2PDDL</a> paper).<br>If you are interested in this, feel free to email me. I would be very glad to talk about it.&#128515;
+I am <b>fascinated by reasoning</b> and currently dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper).<br>If you are interested in this, feel free to email me. I would be very glad to talk about it.&#128515;
+<!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
 
 **<font size=5>Highest Education:</font>**
 
@@ -33,12 +34,15 @@ I am <b>fascinated by reasoning</b> and currently engaged in <b>causality descri
 # Publications
 - [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
     **Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
-    
-- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
-    **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
 
 - [Argument Role Labelling Question-Answer Pair Data Augmentation.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
+
+- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.]()
+    **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
+    <br>not publicly available currently, please email me if you are interested in it.
+
+<!-- https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf -->
 
 ------
 
