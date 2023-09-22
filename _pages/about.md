@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am in search of a Ph.D. position in 2024, preferably in America.
 
-I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper).<br>If you are interested in this, feel free to email me.&#128515;
+I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515;
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
 
 **<font size=5>Highest Education:</font>**
