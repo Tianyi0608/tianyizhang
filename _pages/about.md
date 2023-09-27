@@ -38,10 +38,10 @@ I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pr
 - [Argument Role Labelling Question-Answer Pair Data Augmentation.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
 
-- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
+- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.]()
     **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
-    <!-- <br>**Not publicly available currently**, please email me if you are interested in it. -->
-
+    <br>Not publicly available currently.
+<!-- , please email me if you are interested in it -->
 <!-- https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf -->
 
 ------
