@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3>I am in search of a Ph.D. position in 2024, preferably in America.</font><br>
+<font size=3>I am in search of a Ph.D. position in 2024, preferably in America.</font>
 <!-- I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515; -->
+
 <font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Particularly, I endeavor to <b>devise intelligent agents that emulate human understanding and reasoning</b> of world events. The current drawback of the Language Models (LMs) is that, not as sophisticated as human learning which assimilates and accommodates information into brain schemas (Piaget, J., 1952), the impotence of automatically acquire structured knowledge and anchor them in the network. Thus, the deficiency leads to quirky reasoning and hallucinations. To alleviate it, my current research <b>steers LMs toward building structured knowledge and reasoning on that</b>. These efforts include event extraction, schema induction, and entity-state tracking in Symbolic Language.</font>
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
 
@@ -37,12 +38,12 @@ redirect_from:
 - [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
     **Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
 
-- [Argument Role Labelling Question-Answer Pair Data Augmentation.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
+- [Question-Answer Data Augmentation for Argument Role Labeling.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
 
-- [PROC2PDDL: Predicting Domain Definitions Based on Natural Language for Symbolic Planning.]()
+- [PROC2PDDL: Towards Open-Domain Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
     **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
-    <br>Not publicly available currently.
+    <!-- <br>Not publicly available currently. -->
 <!-- , please email me if you are interested in it -->
 <!-- https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf -->
 
