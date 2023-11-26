@@ -15,8 +15,9 @@ redirect_from:
 
 <p><font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Specifically, I endeavor to devise <b>intelligent agents that emulate human understanding and reasoning</b> of world events. In contrast to human learning, which assimilates and accommodates information into brain schemas (Piaget, J., 1952), a significant challenge with current Language Models (LMs) is their inability to automatically acquire and anchor structured knowledge in the network.  This deficiency leads to unreliable reasoning and hallucinations. To alleviate it, my research <b>directs LMs toward building and reasoning on structured knowledge</b>. These efforts include event extraction, schema induction, entity-state tracking, and Natural to Symbolic reasoning.</font></p>
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
-<p><font size=3>If you would like to know more about my work, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/cv.pdf">CV</a> and <a href="https://tianyi0608.github.io/tianyizhang/files/sop.pdf">SOP</a>.</font></p>
-<p><font size=3>If you are interested in my work, feel free to <a href="zty@seas.upenn.edu">email</a> me.</font></p>
+
+<p><font size=3>If you would like to know more about my work, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/cv.pdf">CV</a> and <a href="https://tianyi0608.github.io/tianyizhang/files/sop.pdf">SOP</a>.<br>
+If you are interested in my work, feel free to <a href="zty@seas.upenn.edu">email</a> me.</font></p>
 
 ------
 
@@ -67,8 +68,7 @@ redirect_from:
 # Research Experience
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
-<!--  
-    - Event **schema generation** using GPT-3
+<!--    - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li><strong>Design the scaffold prompts</strong> (cause, plan, procedure, effect, etc.) for GPT-3 to generate inclusive events</li>
