@@ -17,7 +17,7 @@ redirect_from:
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
 
 <p><font size=3>If you would like to know more about my work, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/cv.pdf">CV</a> and <a href="https://tianyi0608.github.io/tianyizhang/files/sop.pdf">SOP</a>.<br>
-If you are interested in my work, feel free to <a href="zty@seas.upenn.edu">email</a> me.</font></p>
+If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.edu">email</a> me.</font></p>
 
 ------
 
@@ -68,6 +68,7 @@ If you are interested in my work, feel free to <a href="zty@seas.upenn.edu">emai
 # Research Experience
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
+
 <!--    - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
