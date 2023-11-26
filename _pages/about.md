@@ -1,3 +1,5 @@
+
+<p><font size=2>Last Updated: 11/26/2023</font></p>
 ---
 permalink: /
 title: "Basic Information"
@@ -10,8 +12,9 @@ redirect_from:
 <p><font size=3>I am in search of a Ph.D. position in 2024, preferably in America.</font></p>
 <!-- I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515; -->
 
-<p><font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Particularly, I endeavor to <b>devise intelligent agents that emulate human understanding and reasoning</b> of world events. The current drawback of the Language Models (LMs) is that, not as sophisticated as human learning which assimilates and accommodates information into brain schemas (Piaget, J., 1952), the impotence of automatically acquire structured knowledge and anchor them in the network. Thus, the deficiency leads to quirky reasoning and hallucinations. To alleviate it, my research <b>steers LMs toward building structured knowledge and reasoning on that</b>. These efforts include event extraction, schema induction, entity-state tracking, and Natural to Symbolic reasoning.</font></p>
+<p><font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Specifically, I endeavor to devise <b>intelligent agents that emulate human understanding and reasoning</b> of world events. In contrast to human learning, which assimilates and accommodates information into brain schemas (Piaget, J., 1952), a significant challenge with current Language Models (LMs) is their inability to automatically acquire and anchor structured knowledge in the network.  This deficiency leads to unreliable reasoning and hallucinations. To alleviate it, my research <b>directs LMs toward building and reasoning on structured knowledge</b>. These efforts include event extraction, schema induction, entity-state tracking, and Natural to Symbolic reasoning.</font></p>
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
+
 
 ------
 
@@ -62,6 +65,7 @@ redirect_from:
 # Research Experience
 
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
+<!--  
     - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
@@ -83,8 +87,9 @@ redirect_from:
         <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
       </font></blockquote>
-
+-->
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
+<!-- 
     - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
@@ -109,4 +114,5 @@ redirect_from:
         <li>Outcome: "Argument Role Labelling Question-Answer Pair Data Augmentation" paper</li>
         </ul>
       </font></blockquote>
+ -->
 
