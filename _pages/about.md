@@ -66,8 +66,8 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 ------
 
 # Research Experience
-
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
+2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022
 
 <!--    - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
@@ -89,11 +89,11 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
         <li>Improve the performance using <strong>CoT</strong> and <strong>instructions</strong> on translation.</li>
         <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
-      </font></blockquote>  -->
+      </font></blockquote>
 
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
 
- <!--    - Event **trigger identification** and **classification** using **sequence tagging**
+    - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Build 1-of-N (72) joint model and <strong>BIO identification + event type classification</strong> pipeline model</li>
