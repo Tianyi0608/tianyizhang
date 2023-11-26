@@ -2,7 +2,7 @@
 ---
 permalink: /
 title: "Basic Information"
-<!-- excerpt: "basic information" -->
+excerpt: "basic information"
 author_profile: true
 redirect_from: 
   - /about/
