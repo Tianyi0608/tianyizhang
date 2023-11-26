@@ -16,6 +16,7 @@ redirect_from:
 <p><font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Specifically, I endeavor to devise <b>intelligent agents that emulate human understanding and reasoning</b> of world events. In contrast to human learning, which assimilates and accommodates information into brain schemas (Piaget, J., 1952), a significant challenge with current Language Models (LMs) is their inability to automatically acquire and anchor structured knowledge in the network.  This deficiency leads to unreliable reasoning and hallucinations. To alleviate it, my research <b>directs LMs toward building and reasoning on structured knowledge</b>. These efforts include event extraction, schema induction, entity-state tracking, and Natural to Symbolic reasoning.</font></p>
 <!-- <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf"> -->
 <p><font size=3>If you would like to know more about my work, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/cv.pdf">CV</a> and <a href="https://tianyi0608.github.io/tianyizhang/files/sop.pdf">SOP</a>.</font></p>
+<p><font size=3>If you are interested in my work, feel free to <a href="zty@seas.upenn.edu">email</a> me.</font></p>
 
 ------
 
@@ -87,11 +88,11 @@ redirect_from:
         <li>Improve the performance using <strong>CoT</strong> and <strong>instructions</strong> on translation.</li>
         <li>Outcome:"PROC2PDDL" paper</li>
         </ul>
-      </font></blockquote>
--->
+      </font></blockquote>  -->
+
 2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022   
-<!-- 
-    - Event **trigger identification** and **classification** using **sequence tagging**
+
+ <!--    - Event **trigger identification** and **classification** using **sequence tagging**
       <blockquote style="font-style:normal;"><font size=3>
         <ul>
         <li>Build 1-of-N (72) joint model and <strong>BIO identification + event type classification</strong> pipeline model</li>
@@ -114,6 +115,6 @@ redirect_from:
         <li><strong>Evaluate on joint-QA and pipeline-QA model</strong> and prove effectiveness of the above data augmentation approach</li>
         <li>Outcome: "Argument Role Labelling Question-Answer Pair Data Augmentation" paper</li>
         </ul>
-      </font></blockquote>
- -->
+      </font></blockquote> -->
+
 
