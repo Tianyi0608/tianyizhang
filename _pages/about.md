@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Basic Information"
@@ -8,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p><font size=2>Last Updated: 11/26/2023</font></p>
 <!-- <font size=5>Basic Information</font> -->
 <p><font size=3>I am in search of a Ph.D. position in 2024, preferably in America.</font></p>
