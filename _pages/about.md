@@ -12,7 +12,7 @@ redirect_from:
 <!-- <font size=5>Basic Information</font> -->
 <p><font size=3>I am in search of a Ph.D. position in 2024, preferably in America.<br>
 I am the ideal match for your needs, if you're seeking students with a robust foundation in:<br>
-NLP (LLMs), human cognition, and education (including education in computer science).</font></p>
+NLP (LLMs), human cognition, and education (including computer science, STEM).</font></p>
 <!-- I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515; -->
 
 <p><font size=3>I am passionate about building anthropomorphic robots to enhance human life, especially for the underprivileged. Specifically, I endeavor to <b>devise intelligent agents that emulate human understanding and reasoning</b> of world events. In contrast to human learning, which assimilates and accommodates information into brain schemas (Piaget, J., 1952), a significant challenge with current Language Models (LMs), including the SOTA GPT-4, is their inability to automatically acquire and anchor structured knowledge in the network. This deficiency leads to unreliable reasoning and hallucinations. To alleviate it, my research <b>directs LMs to construct and reason with structured and symbolic representations</b>. These efforts include event extraction, schema induction, entity-state tracking, and Natural to Symbolic reasoning.</font></p>
