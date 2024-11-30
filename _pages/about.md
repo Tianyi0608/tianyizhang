@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><font size=2>Last Updated: 05/12/2024</font></p>
+<!-- <p><font size=2>Last Updated: 05/12/2024</font></p> -->
 <!-- <font size=5>Basic Information</font> -->
 <!-- I am in search of a Ph.D. position in 2024, preferably in America.<br> -->
 <p><font size=3>
@@ -21,7 +21,7 @@ NLP (LLMs), human cognition, and education (including computer science, STEM).</
 
 <!-- <p><font size=3>I am currently working on a project for Itinerary Planning, utilizing LM-assisted Symbolic Reasoning. This innovative approach -- acquiring and applying symbolic knowledge, is capable of solving complex planning tasks accurately and faithfully. For a clearer view, please refer to the <a href="https://tianyi0608.github.io/tianyizhang/files/itinerary_planning.png">system flowchart</a>.</font></p> -->
 
-<p><font size=3>To know more about my experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/cv.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/sop.pdf">SOP</a>.<br>
+<p><font size=3>To know more about my experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/CV_NLP_TianyiZhang_241126.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/SOP-Tianyi Zhang-2025.pdf">SOP</a>.<br>
 To know more about my research, please check my research projects. [<a href="https://tianyi0608.github.io/tianyizhang/files/research_projects.pdf">slides</a>] [<a href="https://youtu.be/e0t4urFML2A">video recording</a>]<br>
 <!-- <button onclick="window.location.href='https://youtu.be/e0t4urFML2A';">video recording</button> -->
 If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.edu">email</a> me.</font></p>
