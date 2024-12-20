@@ -50,20 +50,22 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 # Publications
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <span>Content from the left</span>
   <span>2024</span>
-</div>
+</div> -->
 
 <ol>
   <li>
-    <span style="float: left;">Some content</span>
-    <span style="float: right;">2022</span>
+    <span style="float: left;">[Pretraining Language Models with NL-KG-NL Reconstruction Loop.]()</span>
+    <span style="float: left;">**Zhang, T.**, Mai, F., Flek, L.</span>
+    <span style="float: right;">2025</span>
     <br style="clear: both;" />
   </li>
   <li>
-    <span style="float: left;">Another content</span>
-    <span style="float: right;">2023</span>
+    <span style="float: left;">[Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)</span>
+    <span style="float: left;">**Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch.</span>
+    <span style="float: right;">ACL Demo 2023</span>
     <br style="clear: both;" />
   </li>
   <li>
@@ -75,9 +77,9 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 
 
-- [Pretraining Language Models with NL-KG-NL Reconstruction Loop.]() **Zhang, T.**, Mai, F., Flek, L., (2024). Paper in writing.
-- [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
-    **Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
+-  , (2024). Paper in writing.
+- 
+     
 
 - [Question-Answer Data Augmentation for Argument Role Labeling.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
