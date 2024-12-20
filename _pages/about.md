@@ -49,6 +49,18 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 ------
 
 # Publications
+
+<div style="display: flex; justify-content: space-between;">
+  <span>Content from the left</span>
+  <span>2024</span>
+</div>
+
+| Content                | Year |
+|------------------------|-----:|
+| Content from the left  | 2024 |
+
+
+- [Pretraining Language Models with NL-KG-NL Reconstruction Loop.]() **Zhang, T.**, Mai, F., Flek, L., (2024). Paper in writing.
 - [Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)
     **Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. ACL Demo 2023
 
