@@ -69,7 +69,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <li>
     <span style="float: left;">PROC2PDDL: Open-Domain Planning Representations from Texts.</span>
     <span style="float: right;">NLRSE@ACL 2024</span>
-    <span style="float: left;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
+    <span style="float: left; font-size: 1em;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a>  <a href="">poster</a>  <a href="">oral</a></span>
     <br style="clear: both;" />
@@ -78,7 +78,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <li>
     <span style="float: left;">PDDLEGO: Iterative Planning in Textual Environments.</span>
     <span style="float: right;">*SEM 2024</span>
-    <span style="float: left;">Zhang, L., Jansen, P., <b>Zhang, T.</b>, Clark, P., Callison-Burch, C., Tandon, N.</span>
+    <span style="float: left; font-size: 1em;">Zhang, L., Jansen, P., <b>Zhang, T.</b>, Clark, P., Callison-Burch, C., Tandon, N.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>  <a href="">poster</a></span>
     <br style="clear: both;" />
