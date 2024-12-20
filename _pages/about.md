@@ -57,9 +57,10 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 <ol>
   <li>
-    <span style="float: left;"><a href="">Pretraining Language Models with NL-KG-NL Reconstruction Loop.</a></span>
+    <span style="float: left;"><b>Pretraining Language Models with NL-KG-NL Reconstruction Loop.</b></span>
     <span style="float: right;">2025</span>
-    <span style="float: left;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
+    <span style="float: left; font size: 3"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
+    <span style="float: left;"><a href="">paper</a>  <a href="">poster</a>  <a href="">oral</a></span>
     <br style="clear: both;" />
   </li>
 
@@ -92,22 +93,12 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   </li>
 
   <li>
-    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">Question-Answering Data Augmentation for Argument Role Labeling.</a></span>
+    <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf">Question-Answering Data Augmentation for Argument Role Labeling.</a></span>
     <span style="float: right;">2022</span>
     <span style="float: left;"><b>Zhang, T.</b>, Sulem, E., Roth, D.</span>
     <br style="clear: both;" />
   </li>
 </ol>
-
-
-- [Question-Answer Data Augmentation for Argument Role Labeling.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
-    **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
-
-- 
-    **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
-    <!-- <br>Not publicly available currently. -->
-<!-- , please email me if you are interested in it -->
-<!-- https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf -->
 
 ------
 
