@@ -55,9 +55,24 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <span>2024</span>
 </div>
 
-| Content                | Year |
-|------------------------|-----:|
-| Content from the left  | 2024 |
+<ol>
+  <li>
+    <span style="float: left;">Some content</span>
+    <span style="float: right;">2022</span>
+    <br style="clear: both;" />
+  </li>
+  <li>
+    <span style="float: left;">Another content</span>
+    <span style="float: right;">2023</span>
+    <br style="clear: both;" />
+  </li>
+  <li>
+    <span style="float: left;">More content</span>
+    <span style="float: right;">2024</span>
+    <br style="clear: both;" />
+  </li>
+</ol>
+
 
 
 - [Pretraining Language Models with NL-KG-NL Reconstruction Loop.]() **Zhang, T.**, Mai, F., Flek, L., (2024). Paper in writing.
