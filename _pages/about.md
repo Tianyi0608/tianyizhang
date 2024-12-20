@@ -63,7 +63,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="">paper</a></span>  <!-- <a href="">poster</a>  <a href="">oral</a> -->
+    <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/Text_KG_loop.pdf">paper</a></span>  <!-- <a href="">poster</a>  <a href="">oral</a> -->
     <br style="clear: both;" />
   </li>
 
