@@ -83,7 +83,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <br style="clear: both;" />
     <span style="float: left;  font-size: 16px;">Zhang, L., Jansen, P., <b>Zhang, T.</b>, Clark, P., Callison-Burch, C., Tandon, N.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="https://aclanthology.org/2024.starsem-1.17v2.pdf">paper</a>    <a href="">poster</a></span>
+    <span style="float: left;"><a href="https://aclanthology.org/2024.starsem-1.17v2.pdf">paper</a>    <a href="https://underline.io/lecture/96705-pddlego-iterative-planning-in-textual-environments">oral</a></span>
     <br style="clear: both;" />
   </li>
 
@@ -103,7 +103,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>*, Tham, I. *, Hou, Z. *, Ren, J., Zhou, L., Xu, H., Zhang, L., Martin, L., Dror, R., Li, S., Ji, H., Palmer, M., Brown, S., Suchocki, R., and Callison-Burch, C.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/schema-induction-poster.pdf">poster</a>    <a href="">oral</a></span>
+    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/schema-induction-poster.pdf">poster</a>    <a href="https://underline.io/lecture/78228-human-in-the-loop-schema-induction">oral</a></span>
     <br style="clear: both;" />
   </li>
 
