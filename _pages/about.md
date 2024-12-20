@@ -89,7 +89,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
   <li>
     <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
-    <span style="float: right; font-size: 18px;">Wordplay@ACL 2024</span>
+    <span style="float: right; font-size: 16px;">Wordplay@ACL 2024</span>
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
     <br style="clear: both;" />
