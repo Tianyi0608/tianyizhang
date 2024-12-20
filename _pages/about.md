@@ -60,7 +60,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <li>
     <span style="float: left;">Pretraining Language Models with NL-KG-NL Reconstruction Loop.</span>
     <span style="float: right;">2025</span>
-    <span style="float: left; font-size: 1em;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
+    <span style="float: left; font-size: 2px;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="">paper</a></span>  <!-- <a href="">poster</a>  <a href="">oral</a> -->
     <br style="clear: both;" />
@@ -71,7 +71,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <span style="float: right;">NLRSE@ACL 2024</span>
     <span style="float: left; font-size: 1em;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">paper</a>  <a href="">poster</a>  <a href="">oral</a></span>
+    <span style="float: left;"><a href="https://aclanthology.org/2024.nlrse-1.2.pdf">paper</a>  <a href="">poster</a>  <a href="https://underline.io/lecture/104074-proc2pddl-open-domain-planning-representations-from-texts">oral</a></span>
     <br style="clear: both;" />
   </li>
 
@@ -85,7 +85,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   </li>
 
   <li>
-    <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games using Large Language Models.</span>
+    <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
     <span style="float: right;">Wordplay@ACL 2024</span>
     <span style="float: left;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
     <br style="clear: both;" />
