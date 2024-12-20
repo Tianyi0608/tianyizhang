@@ -69,7 +69,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <li>
     <span style="float: left;">PROC2PDDL: Open-Domain Planning Representations from Texts.</span>
     <span style="float: right;">NLRSE@ACL 2024</span>
-    <span style="float: left; font-size: 1em;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
+    <span style="float: left; font-size: 10px;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://aclanthology.org/2024.nlrse-1.2.pdf">paper</a>  <a href="">poster</a>  <a href="https://underline.io/lecture/104074-proc2pddl-open-domain-planning-representations-from-texts">oral</a></span>
     <br style="clear: both;" />
