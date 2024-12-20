@@ -73,7 +73,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="https://aclanthology.org/2024.nlrse-1.2.pdf">paper</a>    <a href="">poster</a>    <a href="https://underline.io/lecture/104074-proc2pddl-open-domain-planning-representations-from-texts">oral</a></span>
+    <span style="float: left;"><a href="https://aclanthology.org/2024.nlrse-1.2.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl-poster.pdf">poster</a>    <a href="https://underline.io/lecture/104074-proc2pddl-open-domain-planning-representations-from-texts">oral</a></span>
     <br style="clear: both;" />
   </li>
 
@@ -103,7 +103,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>*, Tham, I. *, Hou, Z. *, Ren, J., Zhou, L., Xu, H., Zhang, L., Martin, L., Dror, R., Li, S., Ji, H., Palmer, M., Brown, S., Suchocki, R., and Callison-Burch, C.</span>
     <br style="clear: both;" />
-    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>    <a href="">poster</a>    <a href="">oral</a></span>
+    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/schema-induction-poster.pdf">poster</a>    <a href="">oral</a></span>
     <br style="clear: both;" />
   </li>
 
