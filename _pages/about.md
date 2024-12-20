@@ -59,7 +59,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   <li>
     <span style="float: left;"><b>Pretraining Language Models with NL-KG-NL Reconstruction Loop.</b></span>
     <span style="float: right;">2025</span>
-    <span style="float: left; font size: 3"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
+    <span style="float: left;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <span style="float: left;"><a href="">paper</a>  <a href="">poster</a>  <a href="">oral</a></span>
     <br style="clear: both;" />
   </li>
