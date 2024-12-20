@@ -58,33 +58,29 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 <ol>
   <li>
     <span style="float: left;">[Pretraining Language Models with NL-KG-NL Reconstruction Loop.]()</span>
-    <span style="float: left;">**Zhang, T.**, Mai, F., Flek, L.</span>
+    <span style="float: left;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <span style="float: right;">2025</span>
     <br style="clear: both;" />
   </li>
   <li>
-    <span style="float: left;">[Human-in-the-Loop Schema Induction.](https://aclanthology.org/2023.acl-demo.1.pdf)</span>
+    <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">Human-in-the-Loop Schema Induction.</a></span>
     <span style="float: left;">**Tianyi Zhang\***, Isaac Tham\*, Zhaoyi Hou\*, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch.</span>
     <span style="float: right;">ACL Demo 2023</span>
     <br style="clear: both;" />
   </li>
   <li>
-    <span style="float: left;">More content</span>
+    <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf">PROC2PDDL: Open-Domain Planning Representations from Texts.</a></span>
     <span style="float: right;">2024</span>
+    <span style="float: left;"><b>Zhang, T.</b>*, Zhang, L. *, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
   </li>
 </ol>
 
 
-
--  , (2024). Paper in writing.
-- 
-     
-
 - [Question-Answer Data Augmentation for Argument Role Labeling.](https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf)
     **Tianyi Zhang**, Elior Sulem, Dan Roth. 2023, In submission
 
-- [PROC2PDDL: Towards Open-Domain Symbolic Planning.](https://tianyi0608.github.io/tianyizhang/files/proc2pddl.pdf)
+- 
     **Tianyi Zhang\***, Li Zhang\*, Zhaoyi Hou, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. 2023, In submission
     <!-- <br>Not publicly available currently. -->
 <!-- , please email me if you are interested in it -->
