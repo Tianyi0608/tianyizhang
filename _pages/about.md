@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<html>
+<head>
+  <!-- <link rel="stylesheet" type="text/css" href="../_sass/_base.scss"></link> -->
+  <style type="text/css">
+    code {
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+{% include base_path %}
+
+
 <!-- <p><font size=2>Last Updated: 05/12/2024</font></p> -->
 <!-- <font size=5>Basic Information</font> -->
 <p><font size=3>
@@ -140,6 +154,9 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
         <font size="3">Beijing Normal University, Beijing, China</font>
     </li>
 </ul>
+
+</body>
+</html>
 
 <!--   - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
