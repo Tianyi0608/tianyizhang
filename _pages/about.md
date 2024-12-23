@@ -59,7 +59,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 <ol>
   <li>
     <span style="float: left;">Pretraining Language Models with NL-KG-NL Reconstruction Loop.</span>
-    <span style="float: right;">2025</span>
+    <span style="float: right;">In writing 2025</span>
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <br style="clear: both;" />
@@ -89,7 +89,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
   <li>
     <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
-    <span style="float: right; font-size: 16px;">Wordplay@ACL 2024</span>
+    <span style="float: right; font-size: 15px;">Wordplay@ACL 2024</span>
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
     <br style="clear: both;" />
@@ -130,9 +130,9 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 ------
 
-# Research Experience
+<!-- # Research Experience
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
-2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022
+2. **Research Assistant: Cognitive Computation Group at UPenn**, Mar. 2020 – Dec. 2022 -->
 
 <!--    - Event **schema generation** using GPT-3
       <blockquote style="font-style:normal;"><font size=3>
