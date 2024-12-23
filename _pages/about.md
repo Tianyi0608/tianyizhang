@@ -125,12 +125,27 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 ------
 
 # Education
-  - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
+<ul>
+    <li>
+        MSE in Data Science, Jan. 2021 - Dec. 2022<br>
+        <font size="3">University of Pennsylvania, Philadelphia, America</font>
+    </li>
+    <li>
+        M.Ed in Learning Science and Technology, Sept. 2018 - Dec. 2019<br>
+        <font size="3">University of Pennsylvania, Philadelphia, America</font>
+    </li>
+    <li>
+        B.S in Educational Technology, Sept. 2014 - Jun. 2018<br>
+        <font size="3">Beijing Normal University, Beijing, China</font>
+    </li>
+</ul>
+
+  <!-- - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - M.Ed in Learning Science and Technology,   Sept. 2018 - Dec. 2019<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - B.S in Educational Technology,   Sept. 2014 - Jun. 2018<br>
-    <font size=3>Beijing Normal University, Beijing, China</font>
+    <font size=3>Beijing Normal University, Beijing, China</font> -->
 
 <!-- # Research Experience
 1. **Research Assistant: NLP Group at UPenn**, May. 2022 - Jul. 2023
