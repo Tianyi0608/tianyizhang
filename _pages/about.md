@@ -12,17 +12,31 @@ redirect_from:
 <!-- <font size=5>Basic Information</font> -->
 <p><font size=3>
 I am the ideal match for your needs, if you're seeking students with a robust foundation in:<br>
-NLP (LLMs), human cognition, and education (including computer science, STEM).</font></p>
+Natural Language Processing, Human Cognition, and STEM Education.</font></p>
 <!-- I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515; -->
 
 <!-- <p><font size=3>I am passionate about developing anthropomorphic agents to support underprivileged populations. Specifically, my endeavors <b>modify current black-box language models (LMs) to emulate human understanding and reasoning procedure</b>. Humans evolve sophisticated intelligence through explicit structured knowledge and symbolic systems (Tulving, E., 1985). In contrast, a significant challenge with current LMs, including the SOTA GPT-4o, is their inability to automatically construct such structured and symbolic representations within the neural networks, as humans do. This deficiency, lacking intermediate symbolic representations to bridge neurons and language outputs, leads to widely criticized unreliable reasoning in LMs.</font></p>
 
 <p><font size=3>To alleviate it, my research directs LMs to construct and reason with structured and symbolic representations. My research trajectory begins with event extraction through question-answering and synthetic data augmentation techniques (Proj.4), followed by constructing event schemas using human-computer interaction (Proj.3). These efforts assist models to interpret structured knowledge graphs from unstructured text. Subsequently, I investigate the translation of natural language into agent-executable symbolic language utilizing a human cognition theory named ZPD (Proj.2). This work enhances the model’s reliable reasoning capabilities via symbolic representations. Currently, my work explores pretraining LMs using a reconstruction loop that integrates both natural language and knowledge graphs (Proj.1). This approach embeds encoding-decoding skill, akin to human learning processes, into the LMs in the pretraining phase. Collectively, my research aims to advance artificial agents with human-like thinking abilities.</font></p> -->
 
-<p><font size=3>I am passionate about developing anthropomorphic agents to support underprivileged populations. My endeavors <b>modify current black-box language models (LMs) to emulate human understanding and reasoning procedure</b>. Specifically, my research directs LMs to construct and reason with structured and symbolic representations from unstructured text. These efforts include:<br>
-(1) Pretraining language models through a text-knowledge graph reconstruction loop.<br>
-(2) Translating natural language text into symbolic representations.<br>
-(3) Extracting events and inducing event schemas from natural language text.</font></p>
+<p><font size=3>I am passionate about developing anthropomorphic agents to support underprivileged populations. My endeavors <b>modify current black-box language models (LMs) to emulate human understanding and reasoning procedure</b>. Specifically, my research directs LMs to construct and reason with structured and symbolic representations from unstructured text. </font></p>
+
+<p><font size=3>My research efforts include:<br>
+<ol>
+  <li>Pretraining language models through a text-knowledge graph reconstruction loop.</li>
+  <li>Translating natural language text into symbolic representations.</li>
+  <li>Extracting events and inducing event schemas from natural language text.</li>
+</ol>
+</font></p>
+
+<p><font size=3>My research interests include:<br>
+<ol>
+  <li>Reasoning in Natural/Symbolic Language</li>
+  <li>Language Model Pretraining</li>
+  <li>Interdisciplinary in NLP, CV, and Robotics</li>
+</ol>
+</font></p>
+
 
 <p><font size=3>To know more about my research experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/CV_NLP_TianyiZhang_241126.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/SOP-Tianyi Zhang-2025.pdf">SOP</a>.</font></p>
 <!-- To know more about my research, please check my research projects [<a href="https://tianyi0608.github.io/tianyizhang/files/research_projects.pdf">slides</a>] [<a href="https://youtu.be/e0t4urFML2A">video recording</a>].
@@ -30,12 +44,12 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 ------
 
-**<font size=5>Research Interests:</font>**
+<!-- **<font size=5>Research Interests:</font>**
 1. Reasoning in Natural/Symbolic Language
 2. Language Model Pretraining
 3. Interdisciplinary in NLP, CV and Robotics
 
-<!-- **<font size=5>Expertise:</font>**
+**<font size=5>Expertise:</font>**
 1. **Learning Science** and **Cognitive Science** (6 years of experience, B.S., M.Ed)
     - Human Learning and Knowledge Storage
     - Learning Task Design
@@ -43,7 +57,6 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     - Event Extraction, Schema Induction
     - Reasoning in Natural and Symbolic Language<br>
  -->
-------
 
 # Publications
 
