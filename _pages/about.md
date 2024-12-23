@@ -13,7 +13,6 @@ redirect_from:
 <p><font size=3>
 I am the ideal match for your needs, if you're seeking students with a robust foundation in:<br>
 Natural Language Processing, Human Cognition, and STEM Education.</font></p>
-<!-- I am <b>fascinated by reasoning</b> and dedicate to <b>causality described in pre- and post-conditions</b> (referring to the PROC2PDDL paper). If you are interested in this, feel free to email me.&#128515; -->
 
 <!-- <p><font size=3>I am passionate about developing anthropomorphic agents to support underprivileged populations. Specifically, my endeavors <b>modify current black-box language models (LMs) to emulate human understanding and reasoning procedure</b>. Humans evolve sophisticated intelligence through explicit structured knowledge and symbolic systems (Tulving, E., 1985). In contrast, a significant challenge with current LMs, including the SOTA GPT-4o, is their inability to automatically construct such structured and symbolic representations within the neural networks, as humans do. This deficiency, lacking intermediate symbolic representations to bridge neurons and language outputs, leads to widely criticized unreliable reasoning in LMs.</font></p>
 
@@ -21,7 +20,9 @@ Natural Language Processing, Human Cognition, and STEM Education.</font></p>
 
 <p><font size=3>I am passionate about developing anthropomorphic agents to support underprivileged populations. My endeavors <b>modify current black-box language models (LMs) to emulate human understanding and reasoning procedure</b>. Specifically, my research directs LMs to construct and reason with structured and symbolic representations from unstructured text. </font></p>
 
-<p><font size=3>My research efforts include:<br>
+<p><font size=3>To know more about my research experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/CV_NLP_TianyiZhang_241126.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/SOP-Tianyi Zhang-2025.pdf">SOP</a>.</font></p>
+
+<p><font size=3>My <b>research efforts</b> include:
 <ol>
   <li>Pretraining language models through a text-knowledge graph reconstruction loop.</li>
   <li>Translating natural language text into symbolic representations.</li>
@@ -29,7 +30,7 @@ Natural Language Processing, Human Cognition, and STEM Education.</font></p>
 </ol>
 </font></p>
 
-<p><font size=3>My research interests include:<br>
+<p><font size=3>My <b>research interests</b> include:
 <ol>
   <li>Reasoning in Natural/Symbolic Language</li>
   <li>Language Model Pretraining</li>
@@ -38,7 +39,6 @@ Natural Language Processing, Human Cognition, and STEM Education.</font></p>
 </font></p>
 
 
-<p><font size=3>To know more about my research experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/CV_NLP_TianyiZhang_241126.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/SOP-Tianyi Zhang-2025.pdf">SOP</a>.</font></p>
 <!-- To know more about my research, please check my research projects [<a href="https://tianyi0608.github.io/tianyizhang/files/research_projects.pdf">slides</a>] [<a href="https://youtu.be/e0t4urFML2A">video recording</a>].
 If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.edu">email</a> me.</font></p> -->
 
