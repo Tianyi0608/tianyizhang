@@ -26,7 +26,7 @@ NLP (LLMs), human cognition, and education (including computer science, STEM).</
 <p><font size=3>To know more about my experience, please check my <a href="https://tianyi0608.github.io/tianyizhang/files/CV_NLP_TianyiZhang_241126.pdf">CV</a>, and <a href="https://tianyi0608.github.io/tianyizhang/files/SOP-Tianyi Zhang-2025.pdf">SOP</a>.<br>
 To know more about my research, please check my research projects. [<a href="https://tianyi0608.github.io/tianyizhang/files/research_projects.pdf">slides</a>] [<a href="https://youtu.be/e0t4urFML2A">video recording</a>]<br>
 <!-- <button onclick="window.location.href='https://youtu.be/e0t4urFML2A';">video recording</button> -->
-If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.edu">email</a> me.</font></p>
+<!-- If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.edu">email</a> me.</font></p> -->
 
 ------
 
@@ -88,8 +88,8 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
   </li>
 
   <li>
-    <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
-    <span style="float: right; font-size: 15px;">Wordplay@ACL 2024</span>
+    <span style="float: left; font-size: 18px;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
+    <span style="float: right; font-size: 16px;">Wordplay@ACL 2024</span>
     <br style="clear: both;" />
     <span style="float: left; font-size: 16px;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
     <br style="clear: both;" />
