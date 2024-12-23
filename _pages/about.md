@@ -60,12 +60,12 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 # Publications
 
-<ol style="font-size: 10px;">
+<ol style="font-size: 16px;">
   <li>
     <span style="float: left;">Pretraining Language Models with NL-KG-NL Reconstruction Loop.</span>
     <span style="float: right;">In writing 2025</span>
     <br style="clear: both;" />
-    <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
+    <span style="float: left; font-size: 14px;"><b>Zhang, T.</b>, Mai, F., Flek, L.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/Text_KG_loop.pdf">paper</a></span>  <!-- <a href="">poster</a>  <a href="">oral</a> -->
     <br style="clear: both;" />
@@ -75,7 +75,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <span style="float: left;">PROC2PDDL: Open-Domain Planning Representations from Texts.</span>
     <span style="float: right;">NLRSE@ACL 2024</span>
     <br style="clear: both;" />
-    <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
+    <span style="float: left; font-size: 14px;"><b>Zhang, T.</b>*, Zhang, L.*, Hou, Z., Wang, Z., Gu, Y., Clark, P., Callison-Burch, C., and Tandon, N.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://aclanthology.org/2024.nlrse-1.2.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/proc2pddl-poster.pdf">poster</a>    <a href="https://underline.io/lecture/104074-proc2pddl-open-domain-planning-representations-from-texts">oral</a></span>
     <br style="clear: both;" />
@@ -85,17 +85,17 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <span style="float: left;">PDDLEGO: Iterative Planning in Textual Environments.</span>
     <span style="float: right;">*SEM 2024</span>
     <br style="clear: both;" />
-    <span style="float: left;  font-size: 16px;">Zhang, L., Jansen, P., <b>Zhang, T.</b>, Clark, P., Callison-Burch, C., Tandon, N.</span>
+    <span style="float: left;  font-size: 14px;">Zhang, L., Jansen, P., <b>Zhang, T.</b>, Clark, P., Callison-Burch, C., Tandon, N.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://aclanthology.org/2024.starsem-1.17v2.pdf">paper</a>    <a href="https://underline.io/lecture/96705-pddlego-iterative-planning-in-textual-environments">oral</a></span>
     <br style="clear: both;" />
   </li>
 
   <li>
-    <span style="float: left; font-size: 16px;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
-    <span style="float: right; font-size: 16px;">Wordplay@ACL 2024</span>
+    <span style="float: left;">WorldWeaver: Procedural World Generation for Text Adventure Games.</span>
+    <span style="float: right;">Wordplay@ACL 2024</span>
     <br style="clear: both;" />
-    <span style="float: left; font-size: 16px;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
+    <span style="float: left; font-size: 14px;">Jin, M., Kaul, M., Ramakrishnan, S., Jain, H., Chandrawat, S., Agarwal, I., <b>Zhang, T.</b>, Zhu, A., Callison-Burch, C.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://www.cis.upenn.edu/~ccb/publications/worldweaver.pdf">paper</a></span>
     <br style="clear: both;" />
@@ -105,7 +105,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <span style="float: left;">Human-in-the-Loop Schema Induction.</span>
     <span style="float: right;">ACL Demo 2023</span>
     <br style="clear: both;" />
-    <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>*, Tham, I. *, Hou, Z. *, Ren, J., Zhou, L., Xu, H., Zhang, L., Martin, L., Dror, R., Li, S., Ji, H., Palmer, M., Brown, S., Suchocki, R., and Callison-Burch, C.</span>
+    <span style="float: left; font-size: 14px;"><b>Zhang, T.</b>*, Tham, I. *, Hou, Z. *, Ren, J., Zhou, L., Xu, H., Zhang, L., Martin, L., Dror, R., Li, S., Ji, H., Palmer, M., Brown, S., Suchocki, R., and Callison-Burch, C.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://aclanthology.org/2023.acl-demo.1.pdf">paper</a>    <a href="https://tianyi0608.github.io/tianyizhang/files/schema-induction-poster.pdf">poster</a>    <a href="https://underline.io/lecture/78228-human-in-the-loop-schema-induction">oral</a></span>
     <br style="clear: both;" />
@@ -115,7 +115,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     <span style="float: left;">Question-Answering Data Augmentation for Argument Role Labeling.</span>
     <span style="float: right;">2022</span>
     <br style="clear: both;" />
-    <span style="float: left; font-size: 16px;"><b>Zhang, T.</b>, Sulem, E., Roth, D.</span>
+    <span style="float: left; font-size: 14px;"><b>Zhang, T.</b>, Sulem, E., Roth, D.</span>
     <br style="clear: both;" />
     <span style="float: left;"><a href="https://tianyi0608.github.io/tianyizhang/files/AE-QG.pdf">paper</a></span>
     <br style="clear: both;" />
