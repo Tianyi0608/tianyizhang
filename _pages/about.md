@@ -72,7 +72,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 <hr>
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 
 <ol style="font-size: 16px;">
   <li>
@@ -138,7 +138,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 <hr>
 
-<h3>Education</h3>
+<h2>Education</h2>
 
 <ul>
     <li>
