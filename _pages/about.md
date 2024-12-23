@@ -125,6 +125,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 ------
 
 # Education
+
 <ul>
     <li>
         MSE in Data Science, Jan. 2021 - Dec. 2022<br>
@@ -140,7 +141,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
     </li>
 </ul>
 
-  <!-- - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
+<!--   - MSE in Data Science,   Jan. 2021 - Dec. 2022<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
   - M.Ed in Learning Science and Technology,   Sept. 2018 - Dec. 2019<br>
     <font size=3>University of Pennsylvania, Philadelphia, America</font>
