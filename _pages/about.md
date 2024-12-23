@@ -60,7 +60,7 @@ If you are interested in my work, feel free to <a href="mailto: zty@seas.upenn.e
 
 # Publications
 
-<ol>
+<ol style="font-size: 10px;">
   <li>
     <span style="float: left;">Pretraining Language Models with NL-KG-NL Reconstruction Loop.</span>
     <span style="float: right;">In writing 2025</span>
