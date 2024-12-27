@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyi Zhang / 张天怡"
+  name             : "Tianyi Zhang /<br>张天怡"
   avatar           : "WechatIMG28320.jpeg" # "profile.png"
-  bio              : "Expertise in<br>Natural Language Processing,<br>Cognitive Science"
+  bio              : "Expertise in Natural Language Processing,<br>Cognitive Science"
   location         : # "Location"
   employer         :
   pubmed           : 
